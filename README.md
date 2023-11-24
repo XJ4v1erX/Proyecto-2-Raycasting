@@ -1,5 +1,7 @@
 # Proyecto-2-Raycasting
-no hay video porque a mi compu no le sirve la bociana entonces falta el video que lo voy a grabar con otra compu xd
+
+no hay video porque a mi compu no le sirve la bocina entonces falta el video que lo voy a grabar con otra compu xd
+
 ## La Prueba
 
-![No jala el audio](Captura de pantalla 2023-11-23 225728.png)
+![No jala el audio](prueba.png)
