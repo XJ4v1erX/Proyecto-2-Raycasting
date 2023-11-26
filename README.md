@@ -36,17 +36,19 @@ Los backrooms son una leyenda urbana sobre un espacio infinito de habitaciones y
 | Mouse | Rotación horizontal       |
 
 ## Puntos Completados
-- **Estética del nivel (0-30 puntos)**
-- **FPS mantenidos alrededor de 15 (15 puntos)**
-- **Cámara con movimiento y rotación (20 puntos)**
-- **Rotación con el mouse (10 puntos adicionales)**
-- **Minimapa en una esquina (10 puntos)**
-- **Música de fondo (5 puntos)**
-- **Efectos de sonido (10 puntos)**
-- **Al menos 1 animación en sprite (20 puntos)**
-- **Pantalla de bienvenida (5 puntos)**
-- **Selección entre múltiples niveles (10 puntos adicionales)**
-- **Pantalla de éxito al cumplir una condición (10 puntos)**
+| Criterio                                        | Puntos Posibles | Puntos Completados|
+|-------------------------------------------------|-----------------|-------------------|
+| Estética del nivel                              | 0-30            | ?                 |
+| Mantener alrededor de 15 fps                    | 15              | 15                |
+| Cámara con movimiento y rotación                | 20              | 20                |
+| Rotación con el mouse (solo horizontal)         | 10              | 10                | 
+| Minimapa en una esquina                         | 10              | 10                |
+| Música de fondo                                 | 5               | 5                 |
+| Efectos de sonido                               | 10              | 10                |
+| Al menos 1 animación en sprite                  | 20              | 20                |
+| Pantalla de bienvenida                          | 5               | 5                 |
+| Selección entre múltiples niveles               | 10              | 10                |
+| Pantalla de éxito al cumplir una condición      | 10              | 10                |
 
 ## Autor
-- Javier Ramírez
+- [Javier Ramírez]
