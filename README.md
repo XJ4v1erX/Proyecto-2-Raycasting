@@ -4,7 +4,7 @@
 Este proyecto es una implementación de un Ray Caster simple usando PyGame, inspirado en los backrooms. Consiste en un juego donde el jugador navega a través de niveles renderizados en 3D, evitando paredes y cumpliendo objetivos.
 
 ### Demostración
-- [Link al video demostrativo](URL_DEL_VIDEO)
+- [Link al video demostrativo](Backrooms.mkv)
 
 ### Técnica del Ray Caster
 El Ray Caster es una técnica de renderizado para crear una perspectiva 3D en juegos. Utiliza rayos proyectados desde la posición del jugador para calcular la distancia a las paredes y otros objetos, determinando así cómo deben ser renderizados en la pantalla.
