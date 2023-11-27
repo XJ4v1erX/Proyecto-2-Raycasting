@@ -50,5 +50,9 @@ Los backrooms son una leyenda urbana sobre un espacio infinito de habitaciones y
 | Selección entre múltiples niveles               | 10              | 10                |
 | Pantalla de éxito al cumplir una condición      | 10              | 10                |
 
+| Total de Puntos Completados |
+|-----------------------------|
+| 115                         |
+
 ## Autor
 - [Javier Ramírez]
